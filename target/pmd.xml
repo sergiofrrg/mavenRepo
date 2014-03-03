@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.0.2" timestamp="2014-02-26T12:24:11.635">
+<file name="/Users/SergioFrrg/NetBeansProject/mavenproject1/src/main/java/com/mycompany/mavenproject1/Raya.java">
+<violation beginline="18" endline="18" begincolumn="1" endcolumn="19" rule="DontImportJavaLang" ruleset="Import Statements" package="com.mycompany.mavenproject1" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#DontImportJavaLang" priority="4">
+Avoid importing anything from the package java.lang
+</violation>
+<violation beginline="351" endline="351" begincolumn="31" endcolumn="66" rule="CollapsibleIfStatements" ruleset="Basic" package="com.mycompany.mavenproject1" class="Raya" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="444" endline="444" begincolumn="75" endcolumn="123" rule="CollapsibleIfStatements" ruleset="Basic" package="com.mycompany.mavenproject1" class="Raya" method="juegaMaquina" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+</pmd>
